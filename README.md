@@ -1,4 +1,4 @@
-- I sometimes do python and go, mostly automation
+- Voraciously devouering videos.
 
 <!---
 matthewberry3/matthewberry3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
