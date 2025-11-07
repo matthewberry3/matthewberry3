@@ -1,4 +1,4 @@
-- Voraciously devouering videos.
+- I learn stuff
 
 <!---
 matthewberry3/matthewberry3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
